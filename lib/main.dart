@@ -12,8 +12,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Delivery NOME DO APP',
       theme: ThemeData(
-      scaffoldBackgroundColor: Colors.purple[50],
-      primaryColor: Colors.deepPurpleAccent,
+      scaffoldBackgroundColor: Colors.red[20],
+      primaryColor: Colors.red[900],
       ),
       home: HomeScreen(),
     );

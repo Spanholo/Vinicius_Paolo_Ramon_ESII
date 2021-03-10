@@ -107,7 +107,7 @@ class _CartScreenState extends State<CartScreen> {
           Container(
             margin: EdgeInsets.all(10.0),
             child: Text(
-              'R\$${order.quantity * order.food.price}',
+              'R\$${(order.quantity * order.food.price).toStringAsFixed(2)}',
               style: TextStyle(
                 fontSize: 16.0,
                 fontWeight: FontWeight.w500,
@@ -144,18 +144,18 @@ class _CartScreenState extends State<CartScreen> {
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: <Widget>[
                       Text(
-                        'Tempo estimado da entrega:',
+                        'Tempo estimado de entrega de apenas:',
                         style: TextStyle(
                           fontSize: 15.0,
-                          fontWeight: FontWeight.w500,
-                          color: Colors.red[900],
+                          fontWeight: FontWeight.w700,
+                          color: Colors.black,
                         ),
                       ),
                        Text(
-                        '18 minutos!',
+                        '18 minutos',
                         style: TextStyle(
                           fontSize: 15.0,
-                          fontWeight: FontWeight.w500,
+                          fontWeight: FontWeight.w800,
                           color: Colors.red[900],
                         ),
                       ),
@@ -163,27 +163,27 @@ class _CartScreenState extends State<CartScreen> {
                   ),
                   SizedBox(height: 10.0),
                   Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: <Widget>[
                       Text(
                       'Custo Total: ',
                       style: TextStyle(
                           fontSize: 20.0,
-                          fontWeight: FontWeight.w500,
-                          color: Colors.purple[900],
+                          fontWeight: FontWeight.w800,
+                          color: Colors.black,
                         ),
                     ),
                     Text(
                       'R\$ ${totalPrice.toStringAsFixed(2)}',
                       style: TextStyle(
-                          color: Colors.purple[900],
+                          color: Colors.black,
                           fontSize: 20.0,
-                          fontWeight: FontWeight.w500,
+                          fontWeight: FontWeight.w900,
                         ),
-                    )
-
-
+                    ),
                     ],
-                  )
+                  ),
+                  SizedBox(height: 80.0)
 
                 ],
               ),
@@ -195,7 +195,35 @@ class _CartScreenState extends State<CartScreen> {
               color: Colors.purple,
             );
           },
-          itemCount: currentUser.cart.length +1),
+          itemCount: currentUser.cart.length +1
+          ),
+          bottomSheet: Container(
+            height: 60.0,
+            width: MediaQuery.of(context).size.width,
+            decoration: BoxDecoration(
+              color: Theme.of(context).primaryColor,
+              boxShadow:[
+                BoxShadow(
+                  color: Colors.black26,
+                  offset:Offset(0, -1),
+                  blurRadius: 6.0,
+                )
+              ]
+            ),
+            child: Center(
+              child: TextButton(
+                onLongPress: () {},
+                child: Text(
+                  'Finalizar Compra',
+                  style: TextStyle(
+                    fontSize: 22.0,
+                    color:  Colors.white,
+                    fontWeight: FontWeight.w600,
+                  ),
+                ),
+              )
+            ),
+          ),
     );
   }
 }
