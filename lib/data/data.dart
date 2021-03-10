@@ -12,7 +12,7 @@ final _pizza2 = Food('assets/images/italiana.jpg', 'Italiana', 30.89);
 final _hamburguer0 = Food('assets/images/bacon.jpg', 'Bacon', 25.00);
 final _hamburguer1 = Food('assets/images/bomba.jpg', 'Bomba', 35.00);
 final _hamburguer2 = Food('assets/images/duplo.jpg', 'Duplo', 30.00);
-final _hamburguer3 = Food('assets/images/tradicional.jpg', 'tradicional', 15.00);
+final _hamburguer3 = Food('assets/images/tradicional.jpg', 'Tradicional', 15.00);
 
 //Restaurante
 
