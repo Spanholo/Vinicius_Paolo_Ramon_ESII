@@ -213,12 +213,14 @@ class _CartScreenState extends State<CartScreen> {
             child: Center(
               child: TextButton(
                 onLongPress: () {},
+                onPressed: () {},
                 child: Text(
                   'Finalizar Compra',
                   style: TextStyle(
                     fontSize: 22.0,
                     color:  Colors.white,
                     fontWeight: FontWeight.w600,
+                    letterSpacing: 1.5,
                   ),
                 ),
               )

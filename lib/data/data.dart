@@ -15,13 +15,13 @@ final _hamburguer3 =
 
 //Restaurante
 
-final _restaurant0 = Restaurant('assets/images/restaurant0.jpg', 'Restaurant0',
+final _restaurant0 = Restaurant('assets/images/restaurant1.jpg', 'Pizzaria do João',
     'Avenida Julio Mailhos, 1220', 4, [_pizza0, _pizza1, _pizza2]);
 
 final _restaurant1 = Restaurant(
     'assets/images/restaurant0.jpg',
-    'Restaurant1',
-    'Avenida Julio Mailhos, 1220',
+    'Wilson Burgueria',
+    'Avenida Brasil, 220',
     4,
     [_hamburguer0, _hamburguer1, _hamburguer2, _hamburguer3]);
 
