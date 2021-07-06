@@ -1,8 +1,8 @@
 # Projeto Delivery
 
-Projeto destinado a estudos, sendo proibido o uso do código em ambiente comercial.
->Créditos: Vinícius Ranzolin Spanholo @Spanholo,  
-
+>Projeto destinado a estudos, sendo proibido o uso do código em ambiente comercial.
+>Créditos: Vinícius Ranzolin Spanholo
+>**Contato: 160857@upf.br**
 >Créditos: Paolo Bonez Piovezan
 
 ## Etapa 1 - 
@@ -33,4 +33,4 @@ https://www.youtube.com/watch?v=8v0Ifn4eOu4
 ![image](https://user-images.githubusercontent.com/53911433/124666057-dc1e7e00-de83-11eb-8bea-b030e8475190.png)  
 
 
-Qualquer dúvida estamos a disposição para ajudar!
+
