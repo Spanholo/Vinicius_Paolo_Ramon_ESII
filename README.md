@@ -1,6 +1,7 @@
 # Projeto Delivery
 
->Projeto destinado a estudos, sendo proibido o uso do código em ambiente comercial.
+>Projeto destinado a estudos, sendo proibido o uso do código em ambiente comercial.  
+>
 >Créditos: Vinícius Ranzolin Spanholo
 >**Contato: 160857@upf.br**  
 
