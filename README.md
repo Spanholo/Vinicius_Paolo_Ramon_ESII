@@ -2,12 +2,16 @@
 
 >Projeto destinado a estudos, sendo proibido o uso do código em ambiente comercial.
 >Créditos: Vinícius Ranzolin Spanholo
->**Contato: 160857@upf.br**
->Créditos: Paolo Bonez Piovezan
+>**Contato: 160857@upf.br**  
+
+>Créditos: Paolo Bonez Piovezan  
+>**Contato: 161692@upf.br**
 
 ## Etapa 1 - 
-⚠️Para executar o projeto é necessário possuír o android studio, flutter e dart em sua máquina.
-https://www.youtube.com/watch?v=8v0Ifn4eOu4  
+⚠️Para executar o projeto é necessário possuir o Android Studio, Flutter e Dart em sua máquina.  
+>Tutorial de instalação em :  
+>https://www.youtube.com/watch?v=8v0Ifn4eOu4  
+
 
 ## Etapa 2 -
 ✅ Com o flutter em sua máquina abra um terminal dentro de alguma pasta.  
