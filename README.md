@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=8v0Ifn4eOu4
 ✅ Após o término, faça o download do projeto aqui no Github.
 #![image](https://user-images.githubusercontent.com/53911433/124665419-13405f80-de83-11eb-81e1-8cc3edff4aba.png)
 ## Etapa 3 -
-##Migrando projeto
+⚠️ Migrando o projeto
 ✅Abra o arquivo que você acabou de baixar, copie os arquivos e cole dentro do diretório que você criou o projeto Flutter.
 #![image](https://user-images.githubusercontent.com/53911433/124665690-69ad9e00-de83-11eb-9bc6-2add371b7116.png)
 ✅ Substitua os arquivos e execute o o projeto.
