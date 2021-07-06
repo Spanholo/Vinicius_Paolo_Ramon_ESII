@@ -1,7 +1,7 @@
 # Projeto Delivety
 
 Projeto destinado a estudos, sendo proibido o uso do código em ambiente comercial.
-Créditos: Vinícius Ranzolin Spanholo @Spanholo
+Créditos: Vinícius Ranzolin Spanholo @Spanholo e
           Paolo Bonez Piovezan
 
 ## Etapa 1 - 
