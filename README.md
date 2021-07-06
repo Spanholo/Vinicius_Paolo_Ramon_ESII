@@ -1,10 +1,13 @@
 # Projeto Delivery
 
 >Projeto destinado a estudos, sendo proibido o uso do código em ambiente comercial.  
->
->Créditos: Vinícius Ranzolin Spanholo
+>Créditos: Vinícius Ranzolin Spanholo  
 >**Contato: 160857@upf.br**  
 
+
+
+ 
+>
 >Créditos: Paolo Bonez Piovezan  
 >**Contato: 161692@upf.br**
 
